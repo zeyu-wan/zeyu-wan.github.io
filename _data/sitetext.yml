@@ -37,8 +37,8 @@ en: &DEFAULT_EN
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
-#    email: "Email*"
-#    email-validation: "Please enter your email address."
+    email: "Email*"
+    email-validation: "Please enter your email address."
     phone: "Phone Number"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
